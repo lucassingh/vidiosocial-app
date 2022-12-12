@@ -12,7 +12,7 @@ It is developed in Next js and tipescrypt with Sanity client as CMS backend.
 - Zustand
 - Sanity CMS
 
-[URL app](https://www.example.com)
+[URL app](https://vidiosocial-app.vercel.app/)
 
 ## Home view
 
