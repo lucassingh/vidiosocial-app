@@ -23,6 +23,7 @@ interface IComment {
 }
 
 const Comments = ({ comment, setComment, addComment, comments, isPostingComment }: IProps) => {
+
     const { allUsers, userProfile }: any = useAuthStore();
 
     return (
